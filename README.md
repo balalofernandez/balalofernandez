@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Balalo
 
-I'm passionate about AI and building interesting things. Currently building [Phonema.ai](https://github.com/heyelia/).
+I'm passionate about AI and building interesting things.
 
 Feel free to check out my repositories!
 - ✍️ I enjoy writing about tech and AI. [medium.com/@balalo.fernandez](https://medium.com/@balalo.fernandez)
