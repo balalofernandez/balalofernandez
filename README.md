@@ -11,6 +11,7 @@ Happy to contribute back to the community! Here are a couple of projects I've he
 - [Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)
 - [Pipecat](https://github.com/pipecat-ai/pipecat)
 - [Dia-TTS](github.com/nari-labs/dia/)
+- [neo4j-graphrag-python](https://github.com/neo4j/neo4j-graphrag-python)
 
 ### 💞️ Let's Collaborate!
 
